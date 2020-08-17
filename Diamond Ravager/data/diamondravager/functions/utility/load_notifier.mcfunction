@@ -1,0 +1,2 @@
+#Sends a message to the console once it has been loaded
+tellraw @a ["",{"text":"Loaded data pack "},{"text":"[Diamond Ravager]","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"The Diamond Ravager has been summoned!","color":"yellow"}}}]
